@@ -16,10 +16,10 @@
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> means the software program provided by the Company downloaded by You on any electronic device, named สหกรณ์ออมทรัพย์ ตชด. ที่ 22</p>
+<p><strong>Application</strong> means the software program provided by the Company downloaded by You on any electronic device, named สหกรณ์ออมทรัพย์ค่ายสรรพสิทธิประสงค์</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to สหกรณ์ออมทรัพย์ ตชด. ที่ 22.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to สหกรณ์ออมทรัพย์ค่ายสรรพสิทธิประสงค์.</p>
 </li>
 <li>
 <p><strong>Country</strong> refers to:  Thailand</p>
